@@ -47,6 +47,9 @@ Este proyecto fue desarrollado como Trabajo Práctico Integrador para la materia
 
 📝 Registro de observaciones médicas para pacientes presentes
 
+✅ Modificación de usuario y contraseña para los distintos médicos cargados 
+
+
 📊 Alta de Pacientes: DNI, nombre, apellido, género, nacionalidad, fecha de nacimiento, dirección, localidad, provincia, email, teléfono.
 
 
