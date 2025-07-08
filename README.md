@@ -1,5 +1,7 @@
 🏥 Sistema de Gestión para Clínica Médica
-Este proyecto fue desarrollado como Trabajo Práctico Integrador para la materia Programación III de la Tecnicatura Universitaria en Programación – UTN FRGP.
+
+
+Este proyecto fue desarrollado como Trabajo Práctico Integrador para la materia Programación III 
 
 🔧 Tecnologías utilizadas
 
