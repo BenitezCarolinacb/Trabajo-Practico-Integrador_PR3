@@ -1,0 +1,286 @@
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Negocio\bin\Debug\Datos.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Negocio\bin\Debug\Datos.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Negocio.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Negocio.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Datos.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Entidades.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Datos.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Entidades.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Negocio\bin\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Negocio\bin\Debug\Datos.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Negocio\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Negocio\bin\Debug\Datos.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Negocio\obj\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Negocio\bin\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Negocio\bin\Debug\Datos.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Negocio\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Negocio\bin\Debug\Datos.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Negocio\obj\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Negocio\bin\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Negocio\bin\Debug\Datos.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Negocio\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Negocio\bin\Debug\Datos.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Negocio\obj\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Negocio\bin\Debug\Negocio.dll
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Negocio\bin\Debug\Datos.dll
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Negocio\bin\Debug\Entidades.dll
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Negocio\bin\Debug\Datos.pdb
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Negocio\obj\Debug\Negocio.dll
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Negocio\bin\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Negocio\bin\Debug\Datos.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Negocio\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Negocio\bin\Debug\Datos.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Negocio\obj\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Negocio\bin\Debug\Negocio.dll
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Negocio\bin\Debug\Datos.dll
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Negocio\bin\Debug\Entidades.dll
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Negocio\bin\Debug\Datos.pdb
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Negocio\obj\Debug\Negocio.dll
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Negocio\obj\Debug\Negocio.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Negocio\bin\Debug\Negocio.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Negocio\bin\Debug\Datos.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Negocio\bin\Debug\Entidades.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Negocio\bin\Debug\Datos.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Negocio\bin\Debug\Entidades.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Negocio\obj\Debug\Negocio.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Negocio\obj\Debug\Negocio.pdb
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Negocio.dll
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Negocio.pdb
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Datos.dll
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Entidades.dll
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Datos.pdb
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Entidades.pdb
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.csproj.Up2Date
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.dll
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Datos.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Datos.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Datos.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Datos.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Negocio\bin\Debug\Negocio.dll
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Negocio\bin\Debug\Datos.dll
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Negocio\bin\Debug\Entidades.dll
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Negocio\bin\Debug\Datos.pdb
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Negocio\obj\Debug\Negocio.dll
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Negocio\bin\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Negocio\bin\Debug\Datos.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Negocio\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Negocio\bin\Debug\Datos.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Negocio\obj\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Negocio\obj\Debug\Negocio.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Negocio\obj\Debug\Negocio.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Negocio\obj\Debug\Negocio.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Negocio\bin\Debug\Negocio.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Negocio\bin\Debug\Negocio.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Negocio\bin\Debug\Datos.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Negocio\bin\Debug\Entidades.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Negocio\bin\Debug\Datos.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Negocio\bin\Debug\Entidades.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version\TPINT_GRUPO_2_PR3.Version9\Negocio\bin\Debug\Negocio.dll
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version\TPINT_GRUPO_2_PR3.Version9\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version\TPINT_GRUPO_2_PR3.Version9\Negocio\bin\Debug\Datos.dll
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version\TPINT_GRUPO_2_PR3.Version9\Negocio\bin\Debug\Entidades.dll
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version\TPINT_GRUPO_2_PR3.Version9\Negocio\bin\Debug\Datos.pdb
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version\TPINT_GRUPO_2_PR3.Version9\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version\TPINT_GRUPO_2_PR3.Version9\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version\TPINT_GRUPO_2_PR3.Version9\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version\TPINT_GRUPO_2_PR3.Version9\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version\TPINT_GRUPO_2_PR3.Version9\Negocio\obj\Debug\Negocio.dll
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version\TPINT_GRUPO_2_PR3.Version9\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Negocio\bin\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Negocio\bin\Debug\Datos.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Negocio\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Negocio\bin\Debug\Datos.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Negocio\obj\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Negocio\bin\Debug\Negocio.dll
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Negocio\bin\Debug\Datos.dll
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Negocio\bin\Debug\Entidades.dll
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Negocio\bin\Debug\Datos.pdb
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Negocio\obj\Debug\Negocio.dll
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Negocio\obj\Debug\Negocio.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Negocio\bin\Debug\Negocio.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Negocio\bin\Debug\Negocio.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Negocio\bin\Debug\Datos.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Negocio\bin\Debug\Entidades.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Negocio\bin\Debug\Datos.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Negocio\bin\Debug\Entidades.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Negocio\obj\Debug\Negocio.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2.Version14\TPINT_GRUPO_2_PR3.Version14\Negocio\bin\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2.Version14\TPINT_GRUPO_2_PR3.Version14\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2.Version14\TPINT_GRUPO_2_PR3.Version14\Negocio\bin\Debug\Datos.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2.Version14\TPINT_GRUPO_2_PR3.Version14\Negocio\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2.Version14\TPINT_GRUPO_2_PR3.Version14\Negocio\bin\Debug\Datos.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2.Version14\TPINT_GRUPO_2_PR3.Version14\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2.Version14\TPINT_GRUPO_2_PR3.Version14\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2.Version14\TPINT_GRUPO_2_PR3.Version14\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2.Version14\TPINT_GRUPO_2_PR3.Version14\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2.Version14\TPINT_GRUPO_2_PR3.Version14\Negocio\obj\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2.Version14\TPINT_GRUPO_2_PR3.Version14\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Negocio\bin\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Negocio\bin\Debug\Datos.dll
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Negocio\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Negocio\bin\Debug\Datos.pdb
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Negocio\obj\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Datos.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Datos.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\TPI_INTEGRADOR\Negocio\bin\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\TPI_INTEGRADOR\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\TPI_INTEGRADOR\Negocio\bin\Debug\Datos.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\TPI_INTEGRADOR\Negocio\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\TPI_INTEGRADOR\Negocio\bin\Debug\Datos.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\TPI_INTEGRADOR\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\TPI_INTEGRADOR\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\TPI_INTEGRADOR\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\TPI_INTEGRADOR\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\TPI_INTEGRADOR\Negocio\obj\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\TPI_INTEGRADOR\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Datos.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Datos.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 8 del tp\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 8 del tp\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 8 del tp\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 8 del tp\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 8 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 8 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 8 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Datos.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 8 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 8 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Datos.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 8 del tp\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 8 del tp\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Datos.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Datos.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Negocio\obj\Debug\Negocio.pdb

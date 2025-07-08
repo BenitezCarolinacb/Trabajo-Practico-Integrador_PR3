@@ -1,0 +1,136 @@
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version3\TPINT_GRUPO_2_PR3.Version3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Entidades\bin\Debug\Entidades.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Entidades\obj\Debug\Entidades.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Entidades\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Entidades\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Entidades\obj\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version5\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Entidades\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Entidades\obj\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.Version6\TPINT_GRUPO_2_PR3.Version6\Entidades\obj\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Entidades\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Entidades\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Entidades\obj\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.version8\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Entidades\bin\Debug\Entidades.dll
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Entidades\obj\Debug\Entidades.dll
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2.Version10\TPINT_GRUPO_2_PR3.version9\TPINT_GRUPO_2_PR3.version9\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Entidades\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Entidades\obj\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.version11\TPINT_GRUPO_2_PR3.version11\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Entidades\bin\Debug\Entidades.dll
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Entidades\obj\Debug\Entidades.dll
+C:\Users\Carolina\Downloads\TPINT_GRUPO_2_PR3.Vers\Entidades\obj\Debug\Entidades.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Entidades\bin\Debug\Entidades.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Entidades\obj\Debug\Entidades.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version2\Entidades\obj\Debug\Entidades.pdb
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Entidades\bin\Debug\Entidades.dll
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Entidades\bin\Debug\Entidades.pdb
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Entidades\obj\Debug\Entidades.dll
+F:\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Entidades\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Entidades\obj\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version4\TPINT_GRUPO_2_PR3.Version4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\TPINT_GRUPO_2_PR3.V\TPINT_GRUPO_2_PR3.Version4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Entidades\bin\Debug\Entidades.dll
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Entidades\obj\Debug\Entidades.dll
+C:\Users\Maxi\Downloads\TPINT_GRUPO_2_PR3.Version5\Entidades\obj\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Entidades\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Entidades\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Entidades\obj\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version6\Entidades\obj\Debug\Entidades.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Entidades\bin\Debug\Entidades.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Entidades\bin\Debug\Entidades.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Entidades\obj\Debug\Entidades.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version7\TPINT_GRUPO_2_PR3.Version7\Entidades\obj\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Entidades\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Entidades\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Entidades\obj\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\UTN Nivelacion\TPINT_GRUPO_2_PR3.Version10\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Entidades\bin\Debug\Entidades.dll
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Entidades\obj\Debug\Entidades.dll
+C:\Users\Carolina\Downloads\aaaaa\TPINT_GRUPO_2_PR3.Version11\Entidades\obj\Debug\Entidades.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Entidades\bin\Debug\Entidades.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Entidades\bin\Debug\Entidades.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Entidades\obj\Debug\Entidades.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3.Version13\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\Versiones MODIFICADAS DEL TP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 1 del tp\TPINT_GRUPO_2_PR3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 5 del tp\TPINT_GRUPO_2_PR3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 8 del tp\TPINT_GRUPO_2_PR3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 8 del tp\TPINT_GRUPO_2_PR3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 8 del tp\TPINT_GRUPO_2_PR3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Carolina\Desktop\VERSIONES DEL TP NUEVO POR FAVOR NO TE ROMPAS\Version 8 del tp\TPINT_GRUPO_2_PR3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Entidades\obj\Debug\Entidades.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Entidades\bin\Debug\Entidades.dll
+C:\Users\valen\Desktop\TPINT_GRUPO_2_PR3\Entidades\bin\Debug\Entidades.pdb
